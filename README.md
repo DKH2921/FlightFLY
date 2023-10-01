@@ -1,2 +1,2 @@
-# FlightFLY中国天空模拟飞行平台
+# FlightFLY
 © Copyright FlightFLY All Rights Reserved
